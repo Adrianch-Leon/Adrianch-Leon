@@ -1,4 +1,1 @@
-- 👋 Hola, soy @Adrianch-Leon, soy Ingeniero en Telecomunicaciones y Electrónica de la Universidad Central "Marta Abreu" de Las Villas.
-- 👀 Estoy en busca de aumentar mi experiencia en el campo profesional en cualquier trabajo con un salario arreglado.
-- 🌱 Recientemente estoy interesado en la programación web, aunque presento experiencia en el desarrollo de aplicaciones de escritorio con Qt.
-- 📫 Pueden contactarme por Whatsapp o Instagram al teléfono +5351032462.
+Hola, soy @Adrianch-Leon, graduado de Ingeniería en la carrera de Telecomunicaciones y Electrónica de la Universidad Central "Marta Abreu" de Las Villas. El atractivo mundo del desarrollo hoy genera más personas interesadas que nunca,y se ha levantado como un sector de puntera en todas las ramas de la tecnología. Como profesional estoy interesado en la programación web frontend y backend java y javascript, aunque presento experiencia en el desarrollo de aplicaciones de escritorio con C++. Para contactarme pueden tener acceso por Whatsapp o Instagram al teléfono +5351032462.
